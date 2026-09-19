@@ -1,0 +1,3 @@
+/home/rts/RTS-homework/homework/task_5/show_image/build/CMakeFiles/rebuild_cache.dir
+/home/rts/RTS-homework/homework/task_5/show_image/build/CMakeFiles/edit_cache.dir
+/home/rts/RTS-homework/homework/task_5/show_image/build/CMakeFiles/show_image.dir
