@@ -1,0 +1,11 @@
+<launch>
+    <node pkg="task6_demo"
+          type="publisher_node"
+          name="three_ints_publisher"
+          output="screen" />
+
+    <node pkg="task6_demo"
+          type="subscriber_node"
+          name="three_ints_subscriber"
+          output="screen" />
+</launch>
